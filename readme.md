@@ -2,7 +2,7 @@
 
 ## 🚀 Live App
 
-*[Your Live App Link Will Go Here After Deployment]*
+*[[Your Live App Link Will Go Here After Deployment](https://sarthakaiart.streamlit.app/)]*
 
 ---
 
@@ -47,4 +47,5 @@ This project is a fully interactive web application that generates original imag
 5.  **Run the app:**
     ```bash
     streamlit run app.py
+
     ```
